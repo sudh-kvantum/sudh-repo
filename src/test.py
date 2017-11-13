@@ -1,1 +1,1 @@
-Print 'Test Script.'
+Print 'Welcome Test Script.'
